@@ -22,5 +22,6 @@ The Deep Neural Network code is running correctly and it is capable of reducing 
 <img src = "https://github.com/Parnni/Projects/blob/main/Machine%20Learning/0_Images/DNN.PNG" width = "500" height="400"/>
 
 ## Credits
-I learned the Back Propagation Method from Andrew Ng's Machine Learning Course on Coursera.
-The data used is from Andrew Ng's Machine Learning Course.
+- I have learned the DNN from Andrew Ng's Machine Learning Course on Coursera.
+- The data used is from Andrew Ng's Machine Learning Course.
+- I have also referred to a YouTube channel named [Sentdex](https://www.youtube.com/channel/UCfzlCWGWYyIQ0aLC5w48gBQ) for better understanding of DNN.
