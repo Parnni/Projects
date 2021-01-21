@@ -18,7 +18,7 @@ We will learn the reason why we used Runge-Kutta's Method.
 I was trying to solve some Engineering problems using Numerical Methods and there I came across Euler's Method of Integration.
 I applied it on the SDOF vibration equation but the result was unsatisfactory.
 <img src="https://github.com/Parnni/Projects/blob/main/Mechanical%20Engineering/Images/EulerEnergy.PNG">
-It is clear from the image above that the Energy is increasing which shouldn't happen. So, which Numerical Method should I choose to avoid 
+It is clear from the image above that the Energy is increasing which shouldn't happen. So, which Numerical Method should I use to avoid 
 this problem?
 This led me to Runge-Kutta's Method.
 
