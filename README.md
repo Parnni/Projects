@@ -9,4 +9,4 @@ This repository consists of my Mechanical and Machine Learning projects.
 
 
 * ### Mechanical Engineering Projects.
-  * Mechanical Vibrations using Runge-Kutta Method.
+  * [Mechanical Vibrations using Runge-Kutta Method.](https://github.com/Parnni/Projects/tree/main/Mechanical%20Engineering/Mechanical%20Vibrations%20using%20RK%20method)
