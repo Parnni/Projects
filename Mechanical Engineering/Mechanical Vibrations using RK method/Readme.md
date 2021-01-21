@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Overview](#Overview)
-- Motivation
+- [Motivation](#Motivation)
 
 ## Overview
 The project focuses on solving SDOF vibration equation using Euler and Runge-Kutta method. 
@@ -10,3 +10,4 @@ The project focuses on solving SDOF vibration equation using Euler and Runge-Kut
 ## Motivation
 I was trying to solve some Engineering problems using Numerical Methods and there I came across Euler's Method of Integration.
 I applied it on the equation but the result was unsatisfactory.
+![](Images/EulerEnergy.PNG)
