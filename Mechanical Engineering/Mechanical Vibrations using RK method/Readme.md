@@ -12,7 +12,7 @@
 The project focuses on solving SDOF vibration equation with no external force using
 1. Euler's Method.
 2. Runge-Kutta's method.<br>
-We will learn the reason why we used Runge-Kutta's Method.
+
 
 ## Motivation
 I was trying to solve some Engineering problems using Numerical Methods and there I came across Euler's Method of Integration.
