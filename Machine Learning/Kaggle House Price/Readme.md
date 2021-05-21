@@ -33,7 +33,7 @@ Top 39%
 |5|0.14373|
 
 ## Further Improvements
-To improve the score, more work needs to be done on Feature Engineering and Simplifying the code.
+More work needs to be done on Feature Engineering and Simplifying the code.
 
 ## Reference
 [Kaggle House Price Competition](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
