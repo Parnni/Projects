@@ -13,8 +13,8 @@ This project is based on Kaggle House price competition where we have to predict
 - Data cleaning.
 - Missing value imputation.
 - Feature Engineering.
-- Selecting significant features and
-- Selecting the best model.
+- Selecting the best model and
+- Hyperparameter tuning.
 
 ## Motivation
 After studying Machine Learning, I wanted to test my concepts. I choosed Kaggle House Price to get a Hands-on experience.
