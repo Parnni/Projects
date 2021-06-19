@@ -19,11 +19,12 @@ This project is based on Kaggle Titanic competition where we have to predict whe
 Jupyter Notebook
 
 ## Result
-Top 10%
+Top 6%
 |Attempt|Kaggle Score|
 |--|--|
 |1|0.78220|
 |2|0.78947|
+|3|0.79904|
 
 ## Further Improvements
 More work needs to be done on Feature Engineering.
