@@ -9,7 +9,7 @@ This repository consists of my Mechanical and Machine Learning projects.
   * [Kaggle House Price Competition.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Kaggle%20House%20Price)
   * [Kaggle Titanic Competition.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Kaggle%20Titanic)
   * [Kaggle Digit Recognizer.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Kaggle%20Digit%20Recognizer)
-  * [Job-a-thon- June 2021.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Job-a-thon-June%202021)
+  * [Job-a-thon- June 2021 Competition.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Job-a-thon-June%202021)
 
 
 * ### Mechanical Engineering Projects.
