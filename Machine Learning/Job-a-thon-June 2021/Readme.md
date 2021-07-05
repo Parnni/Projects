@@ -7,6 +7,8 @@
 
 ## Overview
 Job-a-thon was organized by Analytics Vidhya, where we have to develop an ETL for the provided data.
+- Cleaned, imputed and modified the data.
+- Developed an ETL using Pandas and SQL.
 
 ## Technologies Used
 Jupyter Notebook and SQL.
