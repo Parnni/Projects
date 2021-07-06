@@ -14,7 +14,7 @@ Job-a-thon was organized by Analytics Vidhya, where we have to develop an ETL fo
 Jupyter Notebook and SQL.
 
 ## Results
-Secured a position of 141 out of 6467 participants.
+Secured a position of 141 out of 6467 participants (Top 2%).
 |Attempt|Score|
 |--|--|
 |1|-0.5193|
