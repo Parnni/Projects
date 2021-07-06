@@ -22,3 +22,5 @@ Secured a position of 141 out of 6467 participants (Top 2%).
 |3|0.8770|
 |4|0.8805|
 |5|0.8827|
+
+<img src = https://github.com/Parnni/Projects/blob/main/Machine%20Learning/Job-a-thon-June%202021/Ranking_screenshot.PNG>
