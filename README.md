@@ -11,6 +11,7 @@ This repository consists of my Mechanical and Machine Learning projects.
   * [Kaggle Digit Recognizer.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Kaggle%20Digit%20Recognizer)
   * [Job-a-thon- June 2021 Competition.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Job-a-thon-June%202021)
   * [Guessing words using Genetic Algorithm.](https://github.com/Parnni/First_Genetic_Algorithm_code)
+  * [Pizza Refund](https://github.com/Parnni/Pizza-Refund)
 
 
 * ### Mechanical Engineering Projects.
