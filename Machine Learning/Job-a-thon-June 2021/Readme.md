@@ -2,13 +2,26 @@
 
 ## Table of Contents
 - [Overview](#Overview)
+- [Problem Statement](#Problem-Statement)
+- [Methodology](#Methodology)
 - [Technologies Used](#Technologies-Used)
 - [Results](#Result)
 
 ## Overview
 Job-a-thon was organized by Analytics Vidhya, where we have to develop an ETL for the provided data.
-- Cleaned, imputed and modified the data.
-- Developed an ETL using Pandas and SQL.
+
+## Problem Statement
+An eCommerce company ComZ wants to focus on targeting the right customers with the right products to increase overall revenue and conversion rate. As part of the data engineering team, we are expected to “Develop input features” for the efficient marketing model given the Visitor log data and User Data so that further data analysis and ML models can be built on top of it.
+
+## Methodology
+1) The visitorlogsdata and usertable were imported using pandas.
+2) Extracted only registered users for analysis.
+3) Converted the date features to date and time format.
+4) Empty spaces filled with 'NaN' values.
+5) VisitDateTime feature had many 'NaN' values. These values were imputed with mean value of each respective user.
+6) Further analysis was performed in MySQL using mysql-connector.
+7) Rest of the queries were run in MySQL.
+8) Finally the results were merged into a dataframe.
 
 ## Technologies Used
 Jupyter Notebook and SQL.
