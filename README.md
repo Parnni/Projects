@@ -12,6 +12,7 @@ This repository consists of my Mechanical and Machine Learning projects.
   * [Job-a-thon- June 2021 Competition.](https://github.com/Parnni/Projects/tree/main/Machine%20Learning/Job-a-thon-June%202021)
   * [Guessing words using Genetic Algorithm.](https://github.com/Parnni/First_Genetic_Algorithm_code)
   * [Pizza Refund](https://github.com/Parnni/Pizza-Refund)
+  * [Airline Passenger Satisfaction](https://github.com/Parnni/Airline-Passenger-Satisfaction)
 
 
 * ### Mechanical Engineering Projects.
