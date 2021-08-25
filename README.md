@@ -13,6 +13,7 @@ This repository consists of my Mechanical and Machine Learning projects.
   * [Guessing words using Genetic Algorithm.](https://github.com/Parnni/First_Genetic_Algorithm_code)
   * [Pizza Refund](https://github.com/Parnni/Pizza-Refund)
   * [Airline Passenger Satisfaction](https://github.com/Parnni/Airline-Passenger-Satisfaction)
+  * [Using Transfer Learning to classify different types of shoes](https://github.com/Parnni/Using-Transfer-Learning-to-classify-different-types-of-shoes.)
 
 
 * ### Mechanical Engineering Projects.
